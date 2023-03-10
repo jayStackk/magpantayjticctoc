@@ -1,0 +1,19 @@
+.title {
+
+    font-size: 45pt;
+}
+.board-row {
+
+    
+    border: 6px solid #739dc7;
+    border-radius: 6px;
+    
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 4em;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: #739dc7;
+
+}
